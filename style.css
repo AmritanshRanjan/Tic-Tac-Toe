@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding: 0px;
+    background-color: #ccd5ae;
+    /* colors are taken from coolors website */
+}
+body{
+    text-align: center;
+    font-size: 25px;
+
+}
+.collection{
+    height:70vh;
+    /* vh is used for total percentage of viewport */
+    display: flex;
+    justify-content: center;
+    
+}
+.boxes{
+    
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+}
+.box{
+    background-color:#fefae0;
+    height: 20vmin;
+    width: 20vmin;
+    border-radius:  1rem;
+    /*  rem--- size relative to the size of the root element */
+    font-size: 70px;
+    color: #dda15e;
+}
+#res{
+    color: white;
+    background-color:black;
+    font-size: 10px;
+    padding: 15px;
+}
