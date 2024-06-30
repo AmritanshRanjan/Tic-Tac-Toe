@@ -40,7 +40,7 @@ To use the Live Server extension in VS Code, follow these steps:
 3. Search for "Live Server" and click on the install button for the extension by Ritwick Dey.
 4. Once installed, right-click on your `index.html` file and select `Open with Live Server`.
 
-## <span style="font-size: 1.5em;">Project Structure</span>
+
 
 
 
